@@ -1,0 +1,10 @@
+aiohttp
+fsspec
+matplotlib
+matplotlib-inline
+numpy
+pandas
+requests
+xarray
+notebook
+zarr

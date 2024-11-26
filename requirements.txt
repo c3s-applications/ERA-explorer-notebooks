@@ -8,5 +8,4 @@ requests
 xarray
 notebook
 zarr
-os
 urllib

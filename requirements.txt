@@ -8,3 +8,4 @@ requests
 xarray
 notebook
 zarr
+papermill

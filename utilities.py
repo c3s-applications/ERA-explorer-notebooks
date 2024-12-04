@@ -3,7 +3,8 @@ import pandas as pd
 
 def retrieve_data(KEY, variable, date_range, lat, lng, do_retrieve=True):
     # Define the URL for the CDS API
-    URL = 'https://cads-mini-cci1.copernicus-climate.eu/api'
+    # URL = 'https://cads-mini-cci1.copernicus-climate.eu/api'
+    URL = 'https://cds-dev-cci2.copernicus-climate.eu/api'
 
     # Define the dataset and request parameters
     dataset = "test-adaptor-arco"
